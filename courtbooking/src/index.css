@@ -1,0 +1,17 @@
+/* use !important if you are overriding the bootstrap elements */
+
+.navbar{
+    background-color: black !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    color: aqua;
+}
+
+.navbar-nav{
+    margin-left: auto !important;
+}
